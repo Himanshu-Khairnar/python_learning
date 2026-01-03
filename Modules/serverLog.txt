@@ -1,0 +1,5 @@
+[2023-10-01 14:00] User admin@company.com accessed /dashboard (Status: 200)
+[2023-10-01 14:05] WARNING: Unauthorized attempt from 192.168.1.55
+[2023-10-01 14:10] ERROR: Payment failed for user john.doe@gmail.com (Status: 403)
+[2023-10-01 14:12] User admin@company.com uploaded file.
+[2023-10-01 14:15] ERROR: Connection timeout from 10.0.0.1
